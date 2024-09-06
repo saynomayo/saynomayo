@@ -1,6 +1,6 @@
 -👨‍💻 This is the Github profile of B.S. Computer Engineering student Mekhai Waples
 
-![IMG_0872](https://github.com/user-attachments/assets/fb41c9f2-141c-499e-96e5-efa141a267e5)
+![IMG_0872](https://github.com/user-attachments/assets/fb41c9f2-141c-499e-96e5-efa141a267e5 | width=100)
 
 
 <!---

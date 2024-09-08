@@ -17,7 +17,7 @@ from this point forward
 Currently, I am not only a member, but the **treasurer** of the only **all-male acapella** organization at my University. 
 We do gigs sometimes and a concert at the end of each semester. 🎤
 
-[![YChromes Spring '24 Concert](https://yt3.googleusercontent.com/OWgg3rGyXpifoFYWVzFRoM1rWL8ZG5AjtfH24N0paAMhjUGY9D_YU0eEqSyzlJSBAQWWnqlJfg=s160-c-k-c0x00ffffff-no-rj)](https://youtu.be/btGeu06siLs)
+# [![YChromes Spring '24 Concert](https://yt3.googleusercontent.com/OWgg3rGyXpifoFYWVzFRoM1rWL8ZG5AjtfH24N0paAMhjUGY9D_YU0eEqSyzlJSBAQWWnqlJfg=s160-c-k-c0x00ffffff-no-rj)](https://youtu.be/btGeu06siLs)
 
 # (click the image above to jump to our Spring '24 concert video)
 

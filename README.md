@@ -1,5 +1,5 @@
 # 👨‍💻 This is the Github profile of **B.S. Computer Engineering** student **Mekhai Waples**
-- If you want to contact me, please **email**, **text**, or **call** me at the **email/number** on my **resume**.
+# If you want to contact me, please **email**, **text**, or **call** me at the **email/number** on my **resume**.
 
 <img src="https://github.com/user-attachments/assets/fb41c9f2-141c-499e-96e5-efa141a267e5" width="200">
 

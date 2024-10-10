@@ -1,11 +1,6 @@
 # 👨‍💻 This is the Github profile of **B.S. Computer Engineering** student **Mekhai Waples**
 # If you want to contact me, please **email**, **text**, or **call** me at the **email/number** on my **resume**.
 
-<img src="https://github.com/user-attachments/assets/fb41c9f2-141c-499e-96e5-efa141a267e5" width="200">
-
-(**I'm the guy on the right 😸.** My best pictures seem to be with my girlfriend.
-A professional composition is definitely on the way.)
-
 - If you are reading this then you've probably come here from my resume 📃.
 This Github profile contains software that I've written.
 Some of that software is **self-written**, and some of it is the product of **collaboration with my classmates**.
